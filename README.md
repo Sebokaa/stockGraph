@@ -6,3 +6,6 @@
 
 5. What could you have done better with more time?
    - One thing I wish I could have done better is optimize my code. As of now there is no error handling, and so if the api was to return back nothing when selecting a dropdown at some point my application would crash as I haven't set up an alternative route. 
+
+
+URL: https://stockdrag.netlify.app/ 
